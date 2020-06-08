@@ -16,3 +16,4 @@ f) Hook: for supporting a heavy load
 
 5 healthy subjects (two males and three females) of the same age approximately (20 to 22-year-old) conducted the six grasps for 30 times each. 
 The measured time is 6 sec. There is a mat file available for every subject.
+Survial types of models were used incluing Neural Network, but the best suited model was SVM(support vector Machine.)
